@@ -1,5 +1,4 @@
 # Clone-Shopee
 
-Bước 1: Clone code về máy
+See here: https://longthanhvu1603.github.io/Clone-Shopee/
   
- Bước 2 : Vào file Index.html open with live server 
